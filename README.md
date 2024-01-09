@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ivar.
 
-- 🔭 I’m currently working on Lamp, my very own Game Engine!
+- 🔭 I’m currently working on Volt, my very own Game Engine!
 - 🌱 I’m currently learning Vulkan and C++
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love Åkerman Excavators
